@@ -1,0 +1,4 @@
+campo com Email ou numero de celular
+campo para senha 
+botao de login/entrar
+botao de cadastro  
